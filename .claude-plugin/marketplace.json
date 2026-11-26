@@ -1,0 +1,12 @@
+{
+  "name": "claude-skills-sidebar",
+  "owner": { "name": "YUGOOD515" },
+  "description": "A sidebar pane for Claude Code that lists the skills and plugins your session has loaded.",
+  "plugins": [
+    {
+      "name": "skills-sidebar",
+      "source": "./",
+      "description": "A sidebar pane listing every skill and plugin your Claude Code session has loaded."
+    }
+  ]
+}

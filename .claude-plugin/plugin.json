@@ -1,0 +1,8 @@
+{
+  "name": "skills-sidebar",
+  "version": "0.2.0",
+  "description": "A sidebar pane listing every skill and plugin your Claude Code session has loaded: personal skills, local plugins, claude.ai account plugins and built-ins.",
+  "author": { "name": "YUGOOD515" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
